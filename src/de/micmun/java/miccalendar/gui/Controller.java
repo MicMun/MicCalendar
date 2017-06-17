@@ -1,8 +1,8 @@
-package de.micmun.java.mickalender.gui;
+package de.micmun.java.miccalendar.gui;
 
-import de.micmun.java.mickalender.model.Week;
-import de.micmun.java.mickalender.util.CalendarDate;
-import de.micmun.java.mickalender.util.MonthCalendar;
+import de.micmun.java.miccalendar.model.Week;
+import de.micmun.java.miccalendar.util.CalendarDate;
+import de.micmun.java.miccalendar.util.MonthCalendar;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;

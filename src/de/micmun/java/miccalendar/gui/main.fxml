@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 
-<BorderPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="920.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.micmun.java.mickalender.gui.Controller">
+<BorderPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="920.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.micmun.java.miccalendar.gui.Controller">
     <bottom>
         <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="BOTTOM_CENTER">
             <children>

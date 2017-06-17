@@ -1,4 +1,4 @@
-package de.micmun.java.mickalender.util;
+package de.micmun.java.miccalendar.util;
 
 import java.time.LocalDate;
 import java.time.Month;

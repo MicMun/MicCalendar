@@ -1,6 +1,6 @@
-package de.micmun.java.mickalender.model;
+package de.micmun.java.miccalendar.model;
 
-import de.micmun.java.mickalender.util.CalendarDate;
+import de.micmun.java.miccalendar.util.CalendarDate;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package de.micmun.java.mickalender.util;
+package de.micmun.java.miccalendar.util;
 
-import de.micmun.java.mickalender.model.Week;
+import de.micmun.java.miccalendar.model.Week;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 

@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: de.micmun.java.mickalender.Main
+Main-Class: de.micmun.java.miccalendar.Main
 
